@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "batfirstmod",
+	"version": "${version}",
+	"name": "BatFirstMod",
+	"description": "The first mod made by TrueBat trying to add copper tools :D",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/batfirstmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.truebat.batfirstmod.BatFirstMod"
+		],
+		"client": [
+			"net.truebat.batfirstmod.BatFirstModClient"
+		],
+		"fabric-datagen": [
+			"net.truebat.batfirstmod.BatFirstModDataGenerator"
+		]
+	},
+	"mixins": [
+		"batfirstmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.6",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
