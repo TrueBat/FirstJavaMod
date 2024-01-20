@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "batfirstmod:copper_helmet",
+    "batfirstmod:copper_chestplate",
+    "batfirstmod:copper_leggings",
+    "batfirstmod:copper_boots"
+  ]
+}

@@ -1,4 +1,11 @@
 {
   "item.batfirstmod.copper_sword" : "Copper Sword",
+  "item.batfirstmod.copper_axe" : "Copper Axe",
+  "item.batfirstmod.copper_shovel" : "Copper Shovel",
+  "item.batfirstmod.copper_hoe" : "Copper Hoe",
+  "item.batfirstmod.copper_helmet" : "Copper Helmet",
+  "item.batfirstmod.copper_chestplate" : "Copper Chestplate",
+  "item.batfirstmod.copper_leggings" : "Copper Leggings",
+  "item.batfirstmod.copper_boots" : "Copper Boots",
   "item.batfirstmod.copper_pickaxe" : "Copper Pickaxe"
 }

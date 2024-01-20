@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures" : {
-    "layer0" : "batfirstmod:item/copper_pickaxe"
+    "layer0" : "batfirstmod:item/copper_axe"
   }
 }
